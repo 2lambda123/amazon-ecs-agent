@@ -28,11 +28,11 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/vishvananda/netlink v1.2.1-beta.2
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/sys v0.13.0
-	golang.org/x/tools v0.12.0
+	golang.org/x/sys v0.16.0
+	golang.org/x/tools v0.17.0
 	google.golang.org/grpc v1.60.1
 	google.golang.org/protobuf v1.31.0
-	k8s.io/api v0.28.1
+	k8s.io/api v0.29.1
 )
 
 require (
@@ -44,7 +44,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/didip/tollbooth v4.0.2+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
-	github.com/go-logr/logr v1.2.4 // indirect
+	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -66,19 +66,19 @@ require (
 	github.com/rootless-containers/rootlesskit v1.1.1 // indirect
 	github.com/sirupsen/logrus v1.9.2 // indirect
 	github.com/vishvananda/netns v0.0.4 // indirect
-	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.16.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/mod v0.14.0 // indirect
+	golang.org/x/net v0.20.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231002182017-d307bd883b97 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/apimachinery v0.28.1 // indirect
-	k8s.io/klog/v2 v2.100.1 // indirect
+	k8s.io/apimachinery v0.29.1 // indirect
+	k8s.io/klog/v2 v2.110.1 // indirect
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
-	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
+	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 )
 
 replace github.com/aws/amazon-ecs-agent/ecs-agent => ../ecs-agent
