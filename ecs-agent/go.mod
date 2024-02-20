@@ -6,7 +6,7 @@ require (
 	github.com/Microsoft/hcsshim v0.11.4
 	github.com/aws/aws-sdk-go v1.44.173
 	github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575
-	github.com/container-storage-interface/spec v1.8.0
+	github.com/container-storage-interface/spec v1.9.0
 	github.com/containernetworking/cni v1.1.2
 	github.com/containernetworking/plugins v1.1.1
 	github.com/didip/tollbooth v4.0.2+incompatible
