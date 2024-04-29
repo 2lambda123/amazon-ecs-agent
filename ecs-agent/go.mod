@@ -12,7 +12,7 @@ require (
 	github.com/didip/tollbooth v4.0.2+incompatible
 	github.com/docker/docker v24.0.6+incompatible
 	github.com/golang/mock v1.6.0
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/pborman/uuid v1.2.1
